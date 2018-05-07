@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "description": "A Simple Node Web Server using Express",
   "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Node",
+    "Expressjs"
+  ],
   "author": "Dare Samuel",
   "license": "MIT",
   "dependencies": {
