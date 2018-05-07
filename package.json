@@ -1,0 +1,12 @@
+{
+  "name": "node-webserver",
+  "version": "1.0.0",
+  "description": "A Simple Node Web Server using Express",
+  "main": "server.js",
+  "author": "Dare Samuel",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0"
+  }
+}
